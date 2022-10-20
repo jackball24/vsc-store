@@ -1,0 +1,2 @@
+# vsc-store
+for vscode
